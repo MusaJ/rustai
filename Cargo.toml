@@ -1,0 +1,9 @@
+[package]
+name = "ai_agent_demo"
+version = "0.1.0"
+edition = "2021"
+authors = ["Rust Bootcamp Student"]
+description = "A demonstration of AI-assisted code generation using GitHub Copilot"
+license = "MIT"
+
+[dependencies]
